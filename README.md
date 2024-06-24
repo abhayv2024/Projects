@@ -1,2 +1,2 @@
 # blueworld
-website of blueworld;
+website for blueworld;
